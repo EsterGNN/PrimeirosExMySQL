@@ -1,0 +1,1 @@
+update produtos set qtd_estoque = 20, tem_no_estoque = true where codigo = 7; 

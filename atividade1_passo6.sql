@@ -1,0 +1,1 @@
+update funcionaries set salario = 30000.00 where id = 5; 
